@@ -3,3 +3,39 @@ body {
   height: 100%;
   margin: 0;
 }
+
+ header {
+  color: red;
+  text-align: center;
+}
+
+.featured-property{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  display: block;
+  font-size: 50px;
+}*/
+
+img{
+
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  font-size: 5px;
+}
+
+figcaption {
+text-align: center;
+}
+
+p.alert{
+  text-align: center;
+}
+
+.container{
+  float: left;
+  text-align: center;
+  background-color: red;
+  width: 25%;
+}
